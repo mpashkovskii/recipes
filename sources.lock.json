@@ -4,25 +4,25 @@
       "repo": "vllm-project/vllm",
       "ref": "main",
       "path": "recipes",
-      "sha": "a574939394086ae79be77f7c67dd32979249a40c",
-      "tree_sha": "65e34f31a9b0f53ffcf7edfede2d367052dc401f",
-      "resolved_at": "2026-11-13T03:17:23.973Z"
+      "sha": "191e5d5df2ec693d5536a635079d58864dfacebb",
+      "tree_sha": "7cfb5c0be2eb1a5e63a01f046c6094210737cbcd",
+      "resolved_at": "2026-11-13T11:15:47.827Z"
     },
     "vllm-omni": {
       "repo": "vllm-project/vllm-omni",
       "ref": "main",
       "path": "recipes",
-      "sha": "40b1153fe35645bbd05a6ecbd97b41b5da65bd22",
-      "tree_sha": "53a579062bbb58017aa477bbccf3299df0c61b4f",
-      "resolved_at": "2026-11-13T03:17:25.242Z"
+      "sha": "25e94e50a432661c01cb640357efadde2b8a8b68",
+      "tree_sha": "2c25bcfad7207f7e28273630fb925a91d9a5c3ba",
+      "resolved_at": "2026-11-13T11:15:49.217Z"
     },
     "vllm-ascend": {
       "repo": "vllm-project/vllm-ascend",
       "ref": "main",
       "path": "recipes",
-      "sha": "02ac27a19cb7676304a9ca6985ba56ce29664536",
-      "tree_sha": "aa2c7503f1b45c8a57a0ae01e40c65ddf8e81283",
-      "resolved_at": "2026-10-28T02:06:32.523Z"
+      "sha": "38a0789f17df9f7e6002df08c055e9d121cde15c",
+      "tree_sha": "0e6d4c358939b13d17b341d737eedfe4afca0a76",
+      "resolved_at": "2026-11-13T11:15:50.772Z"
     },
     "vllm-metal": {
       "repo": "vllm-project/vllm-metal",
